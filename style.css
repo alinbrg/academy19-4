@@ -15,7 +15,7 @@ ul{
 	width: 100px;
 }
 header{
-	background-color: blue;
+	background-color: rgba(0, 32, 244, 1);
 	height: 300px;
 
 	border:10px solid red;
@@ -33,7 +33,7 @@ header{
 	margin-left: 10px;
 	margin-right: 10px;*/
 
-	margin:10px 20px 30px 10px;
+/*	margin:10px 20px 30px 10px;*/
 }
 
 header a{
@@ -59,4 +59,7 @@ h2{
 section{
 	width: 1000px;
 	margin:40px auto;
+}
+p{
+	text-align: center;
 }
